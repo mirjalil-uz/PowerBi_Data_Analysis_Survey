@@ -117,4 +117,5 @@ Data Analytics | Power BI | SQL | Excel | Data Visualization
 
 ⭐ Technologies
 
-Power BI DAX Power Query Data Analytics Data Visualization Business Intelligence Excel
+Power BI DAX Power Query Data Analytics Data Visualization Business Intelligence Excel<img width="1170" height="660" alt="powerbi query screenshot" src="https://github.com/user-attachments/assets/0ce62e02-07e2-410d-8397-fdb7e1dc0ef5" />
+
